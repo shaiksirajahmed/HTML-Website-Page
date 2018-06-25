@@ -1,0 +1,80 @@
+body
+{
+	background-color:gray;
+	margin-top:0px;
+}
+.wrapper
+{
+	background-color:white;
+	margin:0px auto;
+	width:1024px;
+}
+.row
+{	
+	float: right;
+	margin-right: 28px;
+	margin-top: 10px;
+	color: blue;
+	font-weight: bold;
+}				
+#img1
+{
+	margin-bottom:-14px;
+}
+td
+{
+	font-weight:bold;
+}
+p
+{    
+	line-height: 1.6em;
+	font-weight: bold;
+	padding:10px
+}
+#menu
+{
+	margin:0px;
+	padding:0px;
+	height:40px;
+}
+#menu li
+{
+	display:inline;
+	float:left;
+	padding-top: 12px;
+}
+#menu li a
+{	
+	color:darkblue;
+	text-decoration:none;
+	padding:12px 15px 11px 5px;
+}
+#menu li a:hover {
+	background-color:#6666ff;
+	color:white;
+	padding:12px 5px 11px 5px;
+}
+
+.active
+{
+	background-color:#6666ff;
+	color:white;
+	padding:12px 15px 11px 5px;
+}
+#table td 
+{
+	margin:0px;
+	padding:0px;
+}
+#table
+{
+	
+	border-spacing:0px
+}
+
+a:hover
+{
+	color:blue;
+	text-decoration:none
+	
+}
